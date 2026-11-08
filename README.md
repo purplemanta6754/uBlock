@@ -97,6 +97,8 @@ uBO [works best][Works Best] on Firefox and is available for desktop and Android
 
 Chrome Web Store: Removed on 2026-08-31
 
+[Brave][Brave]: Go to Settings > Extensions > Manifest V2 extensions > Enable uBlock Origin™
+
 [Microsoft Edge Add-ons][Edge] (Published by [Nicole Rolls][Nicole Rolls] until version 1.62. Ownership transfer at version 1.64.)
 
 [Opera Add-ons][Opera]
@@ -152,6 +154,7 @@ If you ever want to contribute something, think about the people working hard to
 [Crowdin]: https://crowdin.com/project/ublock
 [Reddit]: https://www.reddit.com/r/uBlockOrigin/
 [Theft]: https://x.com/LeaVerou/status/518154828166725632
+[Brave]: https://x.com/brave/status/2015098539412439053
 [Opera]: https://addons.opera.com/extensions/details/ublock/
 [Edge]: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 [NPM]: https://www.npmjs.com/package/@gorhill/ubo-core
